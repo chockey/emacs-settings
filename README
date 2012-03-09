@@ -1,0 +1,5 @@
+This is a small repository for holding my emacs settings. I understand barely
+enough elisp to copy and paste snippets from other places, so I can't provide
+any actual help for problems you run into.
+
+Should you actually wish to use these, copy them into your ~/.emacs.d/ folder.
